@@ -5,11 +5,10 @@
 
 
 
-- 🔭 I’m currently studing on **SLIIT **
+- 🔭 I’m currently studing on **SLIIT**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **on Youtube**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IT20117696](https://github.com/IT20117696)
 
