@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently studing on **SLIIT**
+- 🔭 I’m currently studying on **SLIIT**
 
 - 🌱 I’m currently learning **MERN stack**
 
