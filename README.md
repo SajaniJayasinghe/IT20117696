@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajani Jayasinghe</h1>
-<h3 align="center">Programmer | Traveler </h3>
+<h3 align="center">Programmer | Traveler | Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20117696&label=Profile%20views&color=0e75b6&style=flat" alt="it20117696" /> </p>
 
